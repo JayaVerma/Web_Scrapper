@@ -1,0 +1,7 @@
+2025-03-06 16:16:44,156 - INFO - Login successful.
+2025-03-06 16:16:52,726 - INFO - Search for 'Machine Learning' completed.
+2025-03-06 16:16:52,763 - INFO - Successfully saved 0 articles.
+2025-03-06 16:26:03,970 - ERROR - Missing Web of Science credentials in environment variables.
+2025-03-06 16:26:03,971 - ERROR - Execution failed: Please set WOS_USERNAME and WOS_PASSWORD as environment variables.
+2025-03-06 16:26:13,014 - ERROR - Missing Web of Science credentials in environment variables.
+2025-03-06 16:26:13,014 - ERROR - Execution failed: Please set WOS_USERNAME and WOS_PASSWORD as environment variables.
